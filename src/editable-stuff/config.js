@@ -54,7 +54,15 @@ const about = {
   imageLink: require("../editable-stuff/aman.jpeg"),
   imageSize: 375,
   message:
-    "Aman is a Btech CSE student. He is skilled in Java, python, JavaScript, ReactJS, Angular, NodeJS, MongoDB and ExpressJS .He is a Software Engineer.",
+    "My name is Aman Pandey I'm a Full Stack Web Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my Work, I like to create open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. In my free time you can find me watching movies or boxing",
+  
+  Contact Details
+  Aman Pandey
+
+  Shivpur , Varanasi, 221003
+  8273648628
+  aman.pandey_cs18@gla.ac.in
+  
   resume: "https://docs.google.com/document/d/1UBgZab1VQN1KHyvHlAwJF8n0HoLt44g5ndWkSnVakik/edit",
 };
 
@@ -73,7 +81,7 @@ const repos = {
 
 // Leadership SECTION
 const leadership = {
-  show: true,
+  show: false,
   heading: "Leadership",
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
