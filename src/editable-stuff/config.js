@@ -54,14 +54,14 @@ const about = {
   imageLink: require("../editable-stuff/aman.jpeg"),
   imageSize: 375,
   message:
-    "My name is Aman Pandey I'm a Full Stack Web Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my Work, I like to create open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. In my free time you can find me watching movies or boxing",
+    "My name is Aman Pandey I'm a Full Stack Web Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my Work, I like to create open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. In my free time you can find me watching movies or boxing
   
   Contact Details
   Aman Pandey
 
   Shivpur , Varanasi, 221003
   8273648628
-  aman.pandey_cs18@gla.ac.in
+  aman.pandey_cs18@gla.ac.in",
   
   resume: "https://docs.google.com/document/d/1UBgZab1VQN1KHyvHlAwJF8n0HoLt44g5ndWkSnVakik/edit",
 };
