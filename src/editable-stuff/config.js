@@ -144,7 +144,7 @@ const experiences = {
   ]
 }
 
- Blog SECTION
+ //Blog SECTION
  const blog = {
    show: true,
  };
